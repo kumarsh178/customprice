@@ -1,0 +1,32 @@
+{
+  "name": "kumarsh178/module-customfields",
+  "description": "Magento 2 Custom fields",
+  "type": "magento-library",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "require": {
+   "magento/magento-composer-installer": "*",
+   "composer/installers": "~1.0"
+  },
+  "extra": {
+   "installer-paths": {
+      "app/code/Accoona/Customprice": ["vendor/module"]
+   }
+  },
+  "authors": [
+    {
+      "name": "Shailendra",
+      "email": "kumarsh178@gmail.com",
+      "homepage": "https://www.test.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Accoona\\Customprice\\": ""
+    }
+  }
+}

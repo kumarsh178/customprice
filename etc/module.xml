@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Accoona Software.
+ *
+ * @category  Accoona
+ * @package   Accoona_Customprice
+ * @author    Shailendra Kumar Maddheshia
+ * @copyright Copyright (c) Accoona Software Private Limited
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Accoona_Customprice" setup_version="1.0.0">
+    </module>
+</config>
