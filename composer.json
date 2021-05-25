@@ -1,6 +1,6 @@
 {
-  "name": "kumarsh178/module-customfields",
-  "description": "Magento 2 Custom fields",
+  "name": "kumarsh178/customprice",
+  "description": "Magento 2 CustomPrice",
   "type": "magento-library",
   "version": "1.0.0",
   "minimum-stability": "dev",
